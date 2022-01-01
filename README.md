@@ -15,13 +15,6 @@ Java, JavaScript, AngularJs, Vue.js,
 Python,TypeScript, Git, GitHub, CSS3, 
 HTML5, FLEXBOX, CSSGRID, Sass, PHP, 
 MySQL, PhpMyAdmin, Blender, Unreal Engine.
-~
-~
-~
-~
-~
-~
-~
 
 
 
