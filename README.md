@@ -12,19 +12,19 @@ My name is Carlos, I'm from Spain and I'm designer and developer.
 ## Acquired knowledge
 
 * Back-end (Java, PHP)
-* Front-end (JavaScript, TypeScript, Angular, Vue)
+* Front-end (Angular, Vue.js, Bootstrap)
 * Full-Stack
-* Mysql, BBDD
+* Mysql, BBDD, Graphql
 * IDEs (VSCode, Netbeans, Eclipse)
 * Cybersecurity (Kali Linux)
 * Others (Blender, Unreal Engine, Unity)
 
 ## Newly Acquired Knowledge
 
-* DRUPAL
+* DRUPAL, Gatsby, Three.js
 
 ## Learning...
 
-* React, Node.js, Three.js, .NET, Gatsby, Next.js
+* React, Node.js, .NET, Next.js
 
 
