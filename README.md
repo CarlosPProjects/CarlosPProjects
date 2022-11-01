@@ -25,6 +25,6 @@ My name is Carlos, I'm from Spain and I'm designer and developer.
 
 ## Learning...
 
-* React, Node.js, Three.js, .NET
+* React, Node.js, Three.js, .NET, Gatsby, Next.js
 
 
