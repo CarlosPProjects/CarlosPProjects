@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://carloscgdev.vercel.app/](https://carloscgdev.vercel.app/)
 
-- 💬 Ask me about **Next JS**
+- 💬 Ask me about **Next JS, Tailwind and Typescript**
 
 - 📫 How to reach me **cg.fullstackdev@gmail.com**
 
