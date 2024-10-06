@@ -1,5 +1,3 @@
-![profile-pic](https://github.com/CarlosPProjects/bentocol-portfolio/blob/195be9478e2c9d20df960e092f505580ccd192ba/public/assets/profile-pic.png)  
-
 ## Hey 👋, I'm Carlos Garavito!  
   
 
