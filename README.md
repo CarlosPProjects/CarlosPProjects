@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Garavito</h1>
 <h3 align="center">I am a passionate software developer with 4 years of experience in the industry. My journey began with a focus on web development, but over time, I have expanded my skills to encompass software creation in various contexts.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlospprojects" alt="carlospprojects" /></a> </p>
-
 - 🔭 I’m currently working on **my self improvement**
 
 - 🌱 I’m currently learning **Python, AI, Docker**
