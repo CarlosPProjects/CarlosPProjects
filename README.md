@@ -21,7 +21,7 @@ I am a passionate software developer with 4 years of experience in the industry.
 <br/>  
 
 
-## Rapidfire  
+## About  
 
 
 - 🔭I’m currently working on my self improvement  
