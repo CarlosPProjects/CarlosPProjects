@@ -33,7 +33,7 @@ I am a passionate software developer with 5 years of experience in the industry.
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 📧 How to reach me cg.fullstackdev@gmail.com  
+- 📧 How to reach me carlos@cgaravito.dev  
 
 
 <br/>  
