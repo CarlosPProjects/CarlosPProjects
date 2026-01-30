@@ -43,10 +43,6 @@ LLM Integration → Multi-Agent Orchestration → Production Deployment
 - 🔨 Building agentic systems and exploring multi-model orchestration
 - 📍 Spain
 
-### Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CarlosPProjects&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cgaravitodev)
