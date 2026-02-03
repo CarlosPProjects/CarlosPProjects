@@ -29,17 +29,8 @@ RAG Pipelines  │  Drizzle ORM    │  Vercel
 - Making AI infrastructure **reliable at scale** with observability and cost control
 - 📚 Master's in Cloud Computing & AI (ongoing)
 
-## GitHub Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CarlosPProjects&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPProjects&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
 ---
 
 <p align="center">
   <sub>🇪🇸 Valencia, Spain · Currently at <a href="https://github.com/vidext">@Vidext</a> · Building the future, one agent at a time</sub>
 </p>
-
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=carlospprojects&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
